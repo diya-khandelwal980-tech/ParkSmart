@@ -1,0 +1,2 @@
+# ParkSmart uses Python standard libraries:
+# tkinter, sqlite3, heapq, time, datetime
